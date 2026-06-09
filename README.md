@@ -2,7 +2,7 @@
 
 UNPHASED is an application for performing genetic association analysis in nuclear families and unrelated subjects. It implements maximum-likelihood inference on haplotype and genotype effects while allowing for uncertain phase and missing genotypes. Many of the commonly performed analyses are provided including transmission/disequilbrium tests, global and individual tests for haplotypes, tests that account for associations of nearby loci, tests of gene-gene interaction, adjustments for environmental covariates, genotype tests, comparison of risk between different haplotypes, and permutation tests.
 
-UNPHASED is no longer under active development.  A linux executable and source files are archived here.
+UNPHASED is no longer under active development.  Linux and Windows executables and source files are archived here.
 
 # Citation
 > Dudbridge F (2008) Likelihood-based association analysis for nuclear families and unrelated subjects with missing genotype data. Human Heredity 66:87-98
